@@ -2,7 +2,7 @@
 problem definition :
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 
-# the problem is from kaggel https://www.kaggle.com/datasets/blastchar/telco-customer-churn?datasetId=13996&sortBy=voteCount
+# the problem is from kaggle https://www.kaggle.com/datasets/blastchar/telco-customer-churn?datasetId=13996&sortBy=voteCount
 The data set includes information about:
 
 Customers who left within the last month – the column is called Churn
